@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mohamednooh99
+- 👋 Hi, I’m mohamednooh
 - 👀 I’m interested in React App
 - 🌱 I’m currently learning React js
-- 💞️ I’m looking for help with websites design
+- 💞️ I’m looking for help with websites design and React App
 - 📫 How to reach me: noohmohamed1999@gmail.com
 
 <!---
