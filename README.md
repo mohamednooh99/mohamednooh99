@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **React Native**
 
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
 - 🤝 I’m looking for help with **websites design and React App**
 
 - 💬 Ask me about **React**
