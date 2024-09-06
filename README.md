@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **noohmohamed1999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Kjfq6yPD1Y5rAY_2gD1jLLHgrTY75Mct/view?usp=sharing](https://drive.google.com/file/d/1Kjfq6yPD1Y5rAY_2gD1jLLHgrTY75Mct/view?usp=sharing)
+- 📄 Know about my experiences [ https://shorturl.at/WTb83 ]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
