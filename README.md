@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **noohmohamed1999@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/bVSPa](https://shorturl.at/bVSPa)
+- 📄 Know about my experiences [https://shorturl.at/bVSPa](https://shorturl.at/7BL53)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
