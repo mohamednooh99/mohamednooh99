@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **various projects**
 
-- 🌱 I’m currently learning **Node.js - React Native**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **React.js-Next.js**
 
