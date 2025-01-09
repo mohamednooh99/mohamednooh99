@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **various projects**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **React.js-Next.js**
+- 💬 Ask me about **React.js | Next.js**
 
 - 📫 How to reach me **noohmohamed1999@gmail.com**
 
